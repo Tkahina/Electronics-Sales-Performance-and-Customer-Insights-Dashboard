@@ -33,6 +33,7 @@ The dataset used in this project is available on Kaggle:
 [Consumer Electronics Sales Dataset on Kaggle](https://www.kaggle.com/datasets/rabieelkharoua/consumer-electronics-sales-dataset/data)
 
 ## 📁 Repository Structure
+
 Electronics-Sales-Performance-and-Customer-Insights-Dashboard/
 ├── Electronics_Sales_Dashboard.xlsx
 ├── Dashboard_Preview.pdf
